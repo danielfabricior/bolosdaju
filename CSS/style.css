@@ -87,6 +87,7 @@ body {
     .top-menu {
         position: relative;
         top: 20px;
+        margin: auto;
     }
 
     .top-menu a {
