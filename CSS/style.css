@@ -93,6 +93,7 @@ body {
     .top-menu a {
         text-align: center;
         margin: auto;
-        color: var(--cor-black);   
+        color: var(--cor-black);
+        font-size: 15px;
     }
 }
